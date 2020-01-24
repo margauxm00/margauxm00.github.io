@@ -1,0 +1,15 @@
+/*stylesheet.css*/
+
+body {
+  background-image: url("https://u.cubeupload.com/LwgEZt.png");
+}
+
+h1, h3, h4 {
+	font-family: "Arial", serif;
+	text-align: center;
+}
+
+p {
+	font-style: italic;
+	text-align: center;
+}
